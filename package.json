@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "googleapis": "^144.0.0",
+    "puppeteer": "^23.6.0",
+    "axios": "^1.7.7",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "md5": "^2.3.0",
+    "puppeteer-core": "^21.3.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
